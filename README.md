@@ -3,6 +3,8 @@ starwars simple API get data using react and webpack
 
 # How to Install 
 
+cd starwars/
+
 npm install
 
 # How to running in development 
