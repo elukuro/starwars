@@ -1,0 +1,26 @@
+$font:'Lato', sans-serif;
+
+ul
+{
+  margin:0;
+  padding:0;
+  li{
+    padding:0;
+    margin:0;
+    list-style-type:none;
+  }
+}
+p,h1,h4,h5{
+  margin:0;
+  padding:0;
+}
+
+// color
+$red:#E02528;
+$black:#282828;
+$white:#F8F8F8;
+$gray:#666666;
+$dark_gray:#454547;
+$purple:#5B3587;
+$orange:#E75B30;
+$blue:#8BC4D3;
